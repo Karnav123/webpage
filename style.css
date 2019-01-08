@@ -90,4 +90,14 @@
   .tabs{
     padding-bottom: 50px;
   }
+
+  /* .education{
+    padding-top: 50px;
+    padding-bottom: auto;
+  } */
+
+  section{
+    padding-top: 25px;
+    padding-bottom: 75px;
+  }
 }
