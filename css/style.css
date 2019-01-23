@@ -31,6 +31,7 @@
     border-radius: 10px;
     float: left;
     margin-right: 25px;
+    margin-top: 1em;
   }
 
   .topnavbar{
@@ -56,6 +57,7 @@
 
   #intro{
     font-size:  20px;
+    padding-top: 1em;
   }
 
   .entry{
