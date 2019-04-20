@@ -1,4 +1,4 @@
-This webpage has been developed using HTML, CSS, Bootstrap and JavaScript. 
+This website has been developed using HTML, CSS, Bootstrap and JavaScript. 
 
-This webpage can be accessed at http://home.iitb.ac.in/~sudhakark/. 
+Please visit http://home.iitb.ac.in/~sudhakark/ to access this website. 
 
